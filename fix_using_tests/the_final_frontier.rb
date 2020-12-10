@@ -14,3 +14,5 @@ def engage
   pry.binding
   date = generate_star_date
 end
+
+engage
